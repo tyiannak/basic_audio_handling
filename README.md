@@ -1,5 +1,5 @@
 # basic_audio_handling
-A set of examples for basic audio data handling
+A set of examples for basic audio data handling including: audio file I/O, stereo data handling, basic audio segmentation and silence removal. 
 
 This notebook contains examples for some basic audio handling in Python such as: audio file IO, static audio segmentation, channel handling and basic audio signal analysis.
 
